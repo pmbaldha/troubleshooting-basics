@@ -2,7 +2,7 @@
 
 ## Description
 
-In this module you'll learn about the basic troubleshooting steps that can be taken when something goes wrong on your WordPress site.  The lesson will focus on troubleshooting an existing install of WordPress and will not deal with issues during installation.  This basic troubleshooting will fix a lot of common issues avoiding the need to spend hours researching and waiting for answers on the WordPress Support Forums.
+In this module, you'll learn about the basic troubleshooting steps that can be taken when something goes wrong on your WordPress site.  The lesson will focus on troubleshooting an existing install of WordPress and will not deal with issues during installation.  This basic troubleshooting will fix a lot of common issues avoiding the need to spend hours researching and waiting for answers on the WordPress Support Forums.
 
 * * *
 
@@ -48,7 +48,7 @@ After completing this lesson, students will be able to list basic troubleshootin
 
 ### Take a deep breath! Walk away.
 
-It is easy to become frustrated when we can't solve a problem immediately. As a result of our frustration, our vision becomes more narrowly focused. We then repeat the same actions over and over or make assumptions about what the problem is and don't look beyond that. We close our mind to other possible causes to the problem or are so overwhelmed by the problem that we don't know where to start to solve it. The first step to solving any problem is to relax. While it may seem like the world is ending, it is not. The site may be temporarily broken or not working as expected, but you are more likely to get it working the way you want if you take a deep breath and a break and approach the problem fresh. When you are feeling more relaxed, you can work through the following exercises to define the problem more clearly and find a solution.
+It is easy to become frustrated when we can't solve a problem immediately. As a result of our frustration, our vision becomes more narrowly focused. We then repeat the same actions over and over or make assumptions about what the problem is and don't look beyond that. We close our minds to other possible causes of the problem or are so overwhelmed by the problem that we don't know where to start to solve it. The first step to solving any problem is to relax. While it may seem like the world is ending, it is not. The site may be temporarily broken or not working as expected, but you are more likely to get it working the way you want if you take a deep breath and a break and approach the problem fresh. When you are feeling more relaxed, you can work through the following exercises to define the problem more clearly and find a solution.
 
 ### A well-defined problem is half the solution!
 
